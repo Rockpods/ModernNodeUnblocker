@@ -4,10 +4,10 @@ Evade internet censorship!
 
 The original nodeunblocker.com is now gone, but it's now easier than ever to deploy your own copy.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rockpods/ModernNodeUnblocker)
-[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/rockpods/ModernNodeUnblocker)
-[![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/rockpods/ModernNodeUnblocker)
-[![Run on Repl.it](https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy)](https://repl.it/github/rockpods/ModernNodeUnblocker)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rockpods/ModernNodeUnblocker)
+[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/Rockpods/ModernNodeUnblocker)
+[![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Rockpods/ModernNodeUnblocker)
+[![Run on Repl.it](https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy)](https://repl.it/github/Rockpods/ModernNodeUnblocker)
 
 
 ## Running the website on Heroku/Bluemix/AWS/Repl.it
